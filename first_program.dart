@@ -20,4 +20,8 @@ main() {
   //*Strings
   var s1 = "Hello";
   String s2 = 'Hello';
+
+  //Can change the type of the var
+  dynamic dyn = 33;
+  dyn = "33";
 }
